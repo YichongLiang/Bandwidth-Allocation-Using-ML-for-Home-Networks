@@ -1,0 +1,12 @@
+(1) your team's project progress made in the past week and explain whether that's in line with the milestones you have made in your project proposal; 
+
+Milestones: Data Accumulation & Initial Analysis Oct 29: 
+Collect Historical Data, Real-time Data Collection, Preliminary Analysis
+
+progress: Data Collection and Preliminary Analysis finished.
+
+
+(2) Each team member's contribution in the past week. We will also casually check your source code updates. 
+
+Ping Zhang's contribution: Gathered data and help on data collection
+Yichong's contribution: Help set up data collection and did preliminary analysis 

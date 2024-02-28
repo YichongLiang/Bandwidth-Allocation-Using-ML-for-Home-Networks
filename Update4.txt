@@ -1,0 +1,18 @@
+(1) your team's project progress made in the past week and explain whether that's in line with the milestones you have made in your project proposal; 
+
+Model Testing: Evaluate the model's performance on the validation set.
+Optimization: Fine-tune the model based on validation results.
+System Integration: Incorporate the trained model into the network management system for bandwidth allocation.
+
+Procedure Adjustment: After analysis, we have fouonded that a network management system for bandwidth allocation is not needed. Instead, after analyzing the output of the machine learning model, we will manually construct the NS-3 file parameters based on the analysis results to simulate according to the experimental scenarios.
+
+
+(2) Each team member's contribution in the past week. We will also casually check your source code updates. 
+
+Yichong's contribution: 
+（a）Network management system for bandwidth allocation Software and hardware analysis
+（b）Construct NS-3 file parameters to simulate according to the experimental scenarios.
+
+Ping Zhang's contribution: 
+（a）Analysis of the application limitations of a network management system for bandwidth allocation.
+（b）Contrast Experimental scenario Design.

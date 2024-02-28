@@ -1,0 +1,11 @@
+
+https://github.com/tkn-tub/ns3-gym
+
+
+使用ns-3按照表中的实验场景设置对应的参数，并收集每个设备的以下3个关键指标用于评估网络中的数据传输速率和性能：
+在网络中延迟（Latency）,往返时间（Round-Trip Time, RTT）, 带宽利用率（Bandwidth Utilization）,
+
+
+First Name： Ping
+Last Name： Zhang
+Email：pingzhang@mines.edu

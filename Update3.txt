@@ -1,0 +1,14 @@
+(1) your team's project progress made in the past week and explain whether that's in line with the milestones you have made in your project proposal; 
+
+Data Preprocessing: Clean, normalize, and partition the data into training and validation sets.
+Model Selection: Experiment with different ML algorithms suitable for bandwidth prediction.
+Model Training: Train the chosen algorithm using the training set.
+
+progress: Data Preprocessing, Model Trainingand Model Selection finished.
+
+
+(2) Each team member's contribution in the past week. We will also casually check your source code updates. 
+
+Yichong's contribution: finished the Data Preprocessing and Model Selection
+
+Ping Zhang's contribution: finished the Model Training

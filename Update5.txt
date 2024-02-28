@@ -1,0 +1,19 @@
+(1) your team's project progress made in the past week and explain whether that's in line with the milestones you have made in your project proposal; 
+
+Iterative Improvement: Make necessary adjustments based on feedback and test results.
+Final Deployment: Launch the enhanced bandwidth allocation system for regular use.
+Documentation: Draft a comprehensive guide detailing the system's functionality, user guidelines, and maintenance procedures.
+
+
+progress: Iterative Improvement(Machine Learning Model), and Final Deployment(NS-3)finished. Draft the comprehensive guide detailing the system's functionality is still in progress.
+
+
+(2) Each team member's contribution in the past week. We will also casually check your source code updates. 
+
+Yichong's contribution: 
+（a）Scenario-1 Deployment(NS-3): Constructed NS-3 file parameters to simulate scenarios-1, random in-experiment: Random devices use devices for a random period of time
+（b）Scenario-2 Deployment(NS-3)：Constructed the the bandwidth allocation simulator environment on NS-3 according for Contrast Experimental scenario2, according the Machinne Learning prediction result.
+
+Ping Zhang's contribution: 
+（a）Make necessary adjustments on the Contrast Experiments parameters set up based on feedback and test results.
+（b）Draft experimental reports, tables and results.
